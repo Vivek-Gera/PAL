@@ -1,3 +1,3 @@
 # PAL
 
-Personal Artificial-Intelligence Life-companion
+#Personal Artificial-Intelligence Life-companion

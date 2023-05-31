@@ -39,7 +39,7 @@ As you develop your P.A.L., test its functionalities thoroughly and gather user 
 
 Remember, creating an AI system as sophisticated as J.A.R.V.I.S. requires a significant amount of time, resources, and expertise. Start small and gradually add features as you progress. It can also be helpful to join online communities or forums related to AI development to seek advice, share ideas, and learn from others who are working on similar projects.
 
-#Technologies/Pre-Requisites(Artificial intilligence & Data Science)
+# Technologies/Pre-Requisites(Artificial intilligence & Data Science)
 
 Developing an AI system like P.A.L that understands human emotions and provides a conversational experience akin to talking to another human can be challenging but certainly possible.
 To create a project like P.A.L, you would typically need to combine several technologies and techniques. Here are a few key components you may consider:
